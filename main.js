@@ -1,5 +1,5 @@
 alert('Maria Paula e Luane Mendes')
-let numero=parseInt(prompt('Insera um numero'))
+let numero1=parseInt(prompt('Insera um numero'))
 function soma(numero1,numero2){return numero1+numero2;}
 console.log(soma(1,2));
 function areaQuadrado(lado){return lado**2;}
