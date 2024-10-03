@@ -24,5 +24,10 @@ let i=0;
 while(i<Estados.length) {
 console.log(i);
 console.log(Estados[i]),
+i++, for (let index = 0; index < Estados.length; index++) {
+console.log[index];
+console.log(Estados[index]);
+    
+}
 i=i+1;
 }
