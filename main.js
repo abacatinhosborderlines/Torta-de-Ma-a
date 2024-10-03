@@ -21,7 +21,7 @@ let Estados=[
 
 console
 let i=0;
-while(i<length) {
+while(i<Estados.length) {
 console.log(i);
 console.log(Estados[i]),
 i=i+1;
