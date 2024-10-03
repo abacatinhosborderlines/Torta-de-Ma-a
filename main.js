@@ -19,15 +19,12 @@ let Estados=[
     'Paraná','Pernambuco','Piauí','Rio de Janeiro','Rio Grande do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins',
     'Distrito Federal'] ;
 
-console
 let i=0;
 while(i<Estados.length) {
 console.log(i);
-console.log(Estados[i]),
+console.log(Estados[i]);
 i++,}
 
  for(let index = 0; index < Estados.length; index++) {
 console.log[index];
-console.log(Estados[index]);
-  
-};
+console.log(Estados[index]); };
