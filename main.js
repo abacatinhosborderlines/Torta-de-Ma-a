@@ -30,5 +30,4 @@ console.log[index];
 console.log(Estados[index]);
     
 }
-i=i+1;
 }
