@@ -14,17 +14,29 @@
 
 // document.write(media(um,dois,tres))
 
-let Estados=[
-    'Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Espírito Santo', 'Goiás','Maranhão','Mato Grosso','Mato Grosso do Sul','Minas Gerais','Pará','Paraíba',
-    'Paraná','Pernambuco','Piauí','Rio de Janeiro','Rio Grande do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins',
-    'Distrito Federal'] ;
+// let Estados=[
+//     'Acre','Alagoas','Amapá','Amazonas','Bahia','Ceará','Espírito Santo', 'Goiás','Maranhão','Mato Grosso','Mato Grosso do Sul','Minas Gerais','Pará','Paraíba',
+//     'Paraná','Pernambuco','Piauí','Rio de Janeiro','Rio Grande do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','São Paulo','Sergipe','Tocantins',
+//     'Distrito Federal'] ;
 
-let i=0;
-while(i<Estados.length) {
-console.log(i);
-console.log(Estados[i]);
-i++,}
+// let i=0;
+// while(i<Estados.length) {
+// console.log(i);
+// console.log(Estados[i]);
+// i++, }
 
- for(let index = 0; index < Estados.length; index++) {
-console.log[index];
-console.log(Estados[index]); };
+//  for(let index = 0; index < Estados.length; index++) {
+// console.log[index];
+// console.log(Estados[index]); };
+
+
+let idade=69;
+if(idade>17
+
+)
+{console.log ('Pode Dirigir')
+
+}
+else{
+console.log('Ilegal Dirigir');
+}
